@@ -1,4 +1,5 @@
-﻿Console.WriteLine("hello");
-Console.WriteLine("line1");
-Console.WriteLine("line2");
-Console.WriteLine("line3");
+﻿Console.WriteLine("hello-print");
+Console.WriteLine("line1-print");
+Console.WriteLine("line2-print");
+Console.WriteLine("line3-print");
+
