@@ -8,7 +8,7 @@ Console.WriteLine("line3-print");
     Console.WriteLine("line1");
 }
 
-void method2()
+void print2()
 {
-    Console.WriteLine();
+    Console.WriteLine("line2");
 }
